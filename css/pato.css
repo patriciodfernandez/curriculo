@@ -1,0 +1,7 @@
+.fondo{
+    background-image: linear-gradient(to top, #72420b 0%, #3a122f 100%);
+}
+
+html{
+    scroll-behavior: smooth;
+}
